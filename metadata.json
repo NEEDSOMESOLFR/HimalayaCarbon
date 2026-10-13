@@ -1,0 +1,6 @@
+{
+  "name": "Himalaya Carbon",
+  "description": "Marketplace dashboard for tokenized environmental credits (hydropower, community forestry, biogas) from Nepal, built on Solana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

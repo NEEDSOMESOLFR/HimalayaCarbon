@@ -1,0 +1,98 @@
+{
+  "lower-bhotekoshi-hydro": {
+    "mint": "BNYstYnexqU5qqhJ4Ecbs1wprFR721m4KL5kSSiHsxJV",
+    "vaultAta": "9ayZUgp9M26nreb2PeszEGiK3zEajGo94nyZoKGgKGat",
+    "supply": 14800,
+    "name": "Lower Bhotekoshi Hydro",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "lst-1": {
+    "mint": "BNYstYnexqU5qqhJ4Ecbs1wprFR721m4KL5kSSiHsxJV",
+    "vaultAta": "9ayZUgp9M26nreb2PeszEGiK3zEajGo94nyZoKGgKGat",
+    "supply": 14800,
+    "name": "Lower Bhotekoshi Hydro",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "annapurna-buffer-zone-forestry": {
+    "mint": "Bt3YjspqhZBDs71JamxYJQrgpfaUPAwmVfRQPeG1FXv8",
+    "vaultAta": "4S6GvnY9d6mEGet8TbSwvhqvWxjYnmm4aDpvgFCEssd8",
+    "supply": 28400,
+    "name": "Annapurna Buffer Zone Forestry",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "lst-2": {
+    "mint": "Bt3YjspqhZBDs71JamxYJQrgpfaUPAwmVfRQPeG1FXv8",
+    "vaultAta": "4S6GvnY9d6mEGet8TbSwvhqvWxjYnmm4aDpvgFCEssd8",
+    "supply": 28400,
+    "name": "Annapurna Buffer Zone Forestry",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "pokhara-organic-waste-biogas": {
+    "mint": "RVPFocFYQeUWQRNT5bWkyC5MfNmVPwghM3wt712sK1a",
+    "vaultAta": "BTCgPcsWooaHCSFkwLDFtJRsVx6ro5GaE8tmvDQujEX3",
+    "supply": 4200,
+    "name": "Pokhara Organic Waste Biogas",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "lst-3": {
+    "mint": "RVPFocFYQeUWQRNT5bWkyC5MfNmVPwghM3wt712sK1a",
+    "vaultAta": "BTCgPcsWooaHCSFkwLDFtJRsVx6ro5GaE8tmvDQujEX3",
+    "supply": 4200,
+    "name": "Pokhara Organic Waste Biogas",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "tamor-river-hydro-station": {
+    "mint": "7TnUNrDVyHGwgvRo5PGGXVUAJQcJaf3XUgmJBZjdyooi",
+    "vaultAta": "B7X4ZXkgVDRjdAtHwQKC1goDjDTKecPhWpkSHpcUE2k2",
+    "supply": 32000,
+    "name": "Tamor River Hydro Station",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "lst-4": {
+    "mint": "7TnUNrDVyHGwgvRo5PGGXVUAJQcJaf3XUgmJBZjdyooi",
+    "vaultAta": "B7X4ZXkgVDRjdAtHwQKC1goDjDTKecPhWpkSHpcUE2k2",
+    "supply": 32000,
+    "name": "Tamor River Hydro Station",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "chure-range-community-forestry": {
+    "mint": "Ep2aYRrCdwbcmh5Kxu9DAbPn9vfub36ejufKdurQx8pS",
+    "vaultAta": "HSytwii6u2tsvTL8UL5XBuY69Qndx6zNTsK8vMX6bMHk",
+    "supply": 19500,
+    "name": "Chure Range Community Forestry",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "lst-5": {
+    "mint": "Ep2aYRrCdwbcmh5Kxu9DAbPn9vfub36ejufKdurQx8pS",
+    "vaultAta": "HSytwii6u2tsvTL8UL5XBuY69Qndx6zNTsK8vMX6bMHk",
+    "supply": 19500,
+    "name": "Chure Range Community Forestry",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "upper-karnali-biodigester": {
+    "mint": "Hkzrvtkj72vGyyA2NEqCedXnQnU8SYrB4DMEDcr5dRyV",
+    "vaultAta": "2MBVdYYpA8VJSTS1Kpya3nRGkJ3zHVLwTkHmHg8fbbvv",
+    "supply": 6800,
+    "name": "Upper Karnali Biodigester Network",
+    "symbol": "tCO2e",
+    "decimals": 0
+  },
+  "lst-6": {
+    "mint": "Hkzrvtkj72vGyyA2NEqCedXnQnU8SYrB4DMEDcr5dRyV",
+    "vaultAta": "2MBVdYYpA8VJSTS1Kpya3nRGkJ3zHVLwTkHmHg8fbbvv",
+    "supply": 6800,
+    "name": "Upper Karnali Biodigester Network",
+    "symbol": "tCO2e",
+    "decimals": 0
+  }
+}
